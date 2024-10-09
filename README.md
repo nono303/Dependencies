@@ -16,6 +16,8 @@ NB : due to [limitations on /clr compilation](https://msdn.microsoft.com/en-us/l
 `Dependencies` can help Windows developers troubleshooting their dll load dependencies issues.
 
 ## Releases
+* 2024-10-09 PR applied:
+  - [212](https://github.com/lucasg/Dependencies/pull/212), [241](https://github.com/lucasg/Dependencies/pull/241), [265](https://github.com/lucasg/Dependencies/pull/265), [266](https://github.com/lucasg/Dependencies/pull/266), [269](https://github.com/lucasg/Dependencies/pull/269)
 * [v2.0-alpha](https://github.com/himeshsameera/Dependencies/releases/download/V2.0-alpha/Dependencies_V2.0-alpha_x64.zip) :
 	* Changes from HimeshSameera repository
 	* Fixed some issues with loading .NET dlls (mostly x64 ones) to Dependencies.
